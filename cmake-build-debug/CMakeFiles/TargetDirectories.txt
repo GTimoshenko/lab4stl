@@ -1,3 +1,3 @@
-/Users/glebushnik/Desktop/cpplab/lab4/cmake-build-debug/CMakeFiles/lab4.dir
-/Users/glebushnik/Desktop/cpplab/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/glebushnik/Desktop/cpplab/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/glebushnik/Desktop/labs/cpplab/stllab/cmake-build-debug/CMakeFiles/lab4.dir
+/Users/glebushnik/Desktop/labs/cpplab/stllab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/glebushnik/Desktop/labs/cpplab/stllab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

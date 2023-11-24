@@ -1163,8 +1163,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/glebushnik/Desktop/cpplab/lab4/cmake-build-debug",
-		"source" : "/Users/glebushnik/Desktop/cpplab/lab4"
+		"build" : "/Users/glebushnik/Desktop/labs/cpplab/stllab/cmake-build-debug",
+		"source" : "/Users/glebushnik/Desktop/labs/cpplab/stllab"
 	},
 	"version" : 
 	{
