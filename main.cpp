@@ -214,6 +214,7 @@ int main() {
     try {
         Container *c1 = nullptr;
         string name, fileType, num;
+        cout << "Введите название контейнера, который хотите использовать: ";
         cin >> name;
         c1 = FactoryContainer::createContainer(name);
         c1->setContainer();
